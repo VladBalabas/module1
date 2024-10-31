@@ -7,11 +7,11 @@
 }
 
 .footer {
-    width: 100%; /* Ширина на 100% для адаптивности */
+    width: 100%; 
     text-align: center; 
     font-size: 18px;
     line-height: 2.0; 
-    margin: 10px 0; /* Отступ сверху и снизу */
+    margin: 10px 0;
 }
 
 .footer a {
@@ -25,11 +25,11 @@
 }
 
 .aside {
-    width: 100%; /* Ширина на 100% для адаптивности */
+    width: 100%; 
     display: flex;
     flex-direction: column;
     align-items: center; 
-    margin-top: 20px; /* Добавить отступ сверху */
+    margin-top: 20px;
 }
 
 h3 {
@@ -40,9 +40,9 @@ h3 {
 
 .social-icons {
     display: flex;
-    flex-wrap: wrap; /* Позволяет элементам переноситься на новую строку */
+    flex-wrap: wrap;
     gap: 15px; 
-    justify-content: center; /* Центрируем элементы по горизонтали */
+    justify-content: center;
 }
 
 .social-icon {
