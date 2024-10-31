@@ -1,7 +1,7 @@
 .container__header-nav {
     display: flex;
     height: 20vh;
-    background-image: url("../assets/header_background.png");
+    background-image: url("header_background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
